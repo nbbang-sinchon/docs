@@ -6,6 +6,25 @@
 - 양자택일시 선정 이유를 항상 고민하기!
 - 점호: 밤 11시, 위키에 오늘 한 일 등 올리기
 
+## 네이밍 컨벤션
+
+- 변수(언어별로 알아서)
+- api와 파일명(케밥 케이스 소문자, 대시)
+- DB 테이블, 컬럼: 스네이크! ex. member, member_id
+
+## 코드 리뷰
+
+- dev로 pull request 한거 보고
+- 컨벤션에 어긋나는 것 a + b, a+b ... 프리티어, eslint
+- 일관성, 가독성
+- 칭찬:피드백 = 7:3
+
+## 브랜치 전략
+
+- git flow를 채택
+
+![branch-strategy](https://raw.githubusercontent.com/nbbang-sinchon/docs/main/images/branch-strategy.png)
+
 ## 커밋 컨벤션
 
 제목은 AngularJS 커밋 컨벤션을 따름
@@ -58,16 +77,3 @@ ex) Docs : readme 업데이트
 
 # ------------------
 ```
-
-## 네이밍 컨벤션
-
-- 변수(언어별로 알아서)
-- api와 파일명(케밥 케이스 소문자, 대시)
-- DB 테이블, 컬럼: 스네이크! ex. member, member_id
-
-## 코드 리뷰
-
-- dev로 pull request 한거 보고
-- 컨벤션에 어긋나는 것 a + b, a+b ... 프리티어, eslint
-- 일관성, 가독성
-- 칭찬:피드백 = 7:3
