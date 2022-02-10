@@ -1,8 +1,8 @@
 # Swagger
 
-## Swagger 란?
-### Open Api Specification (OAS) 를 위한 framework 입니다.
-### Api endpoints 를 명세하기 위한 서버 사이드 툴로 사용될 수 있습니다. 
+### Swagger 란?
+ - Open Api Specification (OAS) 를 위한 framework 입니다.
+ - Api endpoints 를 명세하기 위한 서버 사이드 툴로 사용될 수 있습니다. 
 
 ## Swagger 를 사용하는 방법? 백엔드 api 서버를 spring boot 로 가정합니다.
 ## 1. Spring boot integration
