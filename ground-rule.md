@@ -23,15 +23,22 @@
 
 - git flow를 채택
 
-![branch-strategy](https://raw.githubusercontent.com/nbbang-sinchon/docs/main/images/branch-strategy.png)
+  ![branch-strategy](https://raw.githubusercontent.com/nbbang-sinchon/docs/main/images/branch-strategy.png)
+
+## 프로젝트 관리
+
+- 작성한 백로그를 깃헙 issue에 등록하여 하나의 작업단위를 구성
+- 각 issue에 적절한 label을 지정
+- 본인이 맡을 작업들에 assignee 지정하고, 백로그 status, project kanban에 반영
+- 기록할 내용은 issue에 comment 작성
+- 구현된 feature는 issue를 close 하고, 백로그에 status 반영
 
 ## 커밋 컨벤션
 
-제목은 AngularJS 커밋 컨벤션을 따름
-ex) Docs : readme 업데이트
-내용을 반드시 작성하기(이유를 중심으로)
-내용은 "~니다" 형식의 존댓말을 사용함
-최대한 작은 작업 단위 구성하기
+- 제목은 AngularJS 커밋 컨벤션을 따름 ex) Docs : readme 업데이트
+- 내용을 반드시 작성하기(이유를 중심으로)
+- 내용은 "~니다" 형식의 존댓말을 사용함
+- 최대한 작은 작업 단위 구성하기
 
 ```# <type> : <Title>
 
