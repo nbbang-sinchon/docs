@@ -1,9 +1,9 @@
 ![logo](https://i.imgur.com/2DiNrDU.png)
 
 ## 프로젝트 소개 
-배달비를 엔빵하자! 
-혼자 배달 시켜먹기에는 양도  많고 배달비도 부담 되시나요?
-원하는 파티를 만들거나 찾아 보세요! 
+배달비를 엔빵하자! <br>
+혼자 배달 시켜먹기에는 양도  많고 배달비도 부담 되시나요?<br>
+원하는 파티를 만들거나 찾아 보세요! <br>
 
 ## 팀원 소개 ✨
 
@@ -13,17 +13,6 @@
 
 ## 엔빵 하러 가기
 > [어서 파티를 만들러 가요!](https://www.nbbang.shop)
-
-## 화면 구성 
-- 시작페이지 
-- 메인페이지
-- 로그인페이지
-- 마이페이지
-- 파티만들기페이지
-- 파티상세페이지
-- 나의파티페이지
-- 채팅페이지 
-
 
 ## 주요 기능 
 
@@ -130,7 +119,7 @@
 </section>
 
 
-## 도전 
+## 도전
 > 프론트엔드에서는 이런점을 고려하였어요!
 - 재사용성을 고려한 React Component의 설계 
 - Custom Hook을 이용한 복잡한 Logic 분리  
@@ -155,6 +144,7 @@
 
 ## 문서
 - [기획서](https://yonsei-my.sharepoint.com/:p:/g/personal/wngusrud27_o365_yonsei_ac_kr/EfBvecvrnPVCuCEhJwjLhJYB_F4OB5oD5y_Vps4NFWLURw?e=uXggnj)
+- [백로그](https://docs.google.com/spreadsheets/d/12ZYJ3A_dTWp2ufOodOQYAqaORPuip8tr7rjT5iXPLmU/edit#gid=0)
 - [목업](https://www.figma.com/file/FVQ5tn1syj4IWYX6Iew57e/mockup?node-id=0%3A1)
 - [swagger](http://15.165.132.250:8094/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config#)
 - [스크럼, 회의록 등 문서 repo](https://github.com/nbbang-sinchon/docs)
