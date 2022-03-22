@@ -1,4 +1,4 @@
-![logo](https://i.imgur.com/2DiNrDU.png)
+![logo](https://i.imgur.com/Jv3wkC5.png)
 
 ## 프로젝트 소개 
 배달비를 엔빵하자! <br>
